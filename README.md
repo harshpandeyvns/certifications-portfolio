@@ -1,2 +1,2 @@
-# certifications-portfolio
+# Certifications-Portfolio
 My certifications portfolio
