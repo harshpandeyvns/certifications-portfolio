@@ -2,31 +2,31 @@
 My certifications portfolio
 
 
-# 📜 Certifications Portfolio
+#  Certifications Portfolio
 
-Hi, I'm **Harsh Pandey** 👋
+Hi, I'm **Harsh Pandey** 
 Welcome to my certifications repository! This repository contains all my verified certifications across multiple domains including **DevOps, Cloud, Programming, Web Development, AI, and Networking**.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 B.Tech CSE Student
-* 💻 Interested in **DevOps, Cloud Computing, and Software Development**
-* 📈 Actively improving my skills through certifications and hands-on practice
+*  B.Tech CSE Student
+*  Interested in **DevOps, Cloud Computing, and Software Development**
+*  Actively improving my skills through certifications and hands-on practice
 
 ---
 
-## 📂 Certifications
+##  Certifications
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 * AWS Educate – Introduction to Cloud
 * DevOps Certification (Oracle)
 
 ---
 
-### 💻 Programming
+###  Programming
 
 * IIT Bombay Python Certification
 * IIT Bombay Java Certification
@@ -42,19 +42,19 @@ Welcome to my certifications repository! This repository contains all my verifie
 
 ---
 
-### 🗄️ Databases
+###  Databases
 
 * MongoDB Certification
 
 ---
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 
 * Tata Cybersecurity Certification
 
 ---
 
-### 🤖 AI & Tools
+###  AI & Tools
 
 * Introduction to Generative AI
 * Google Gemini Workspace Certification
@@ -62,13 +62,13 @@ Welcome to my certifications repository! This repository contains all my verifie
 
 ---
 
-### 🌐 Networking
+###  Networking
 
 * Oracle Networking Certification
 
 ---
 
-### 🏆 Achievements & Professional Documents
+###  Achievements & Professional Documents
 
 * Hackathon Participation Certificate
 * Appreciation Certificate (Oasis Infobyte)
@@ -77,7 +77,7 @@ Welcome to my certifications repository! This repository contains all my verifie
 
 ---
 
-## 📌 Purpose of this Repository
+##  Purpose of this Repository
 
 This repository serves as a centralized collection of my certifications to:
 
@@ -87,11 +87,11 @@ This repository serves as a centralized collection of my certifications to:
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 * GitHub: https://github.com/harshpandeyvns
 * LinkedIn: https://www.linkedin.com/in/harshpandeyvns/
 
 ---
 
-⭐ Thank you for visiting my repository!
+ Thank you for visiting my repository!
