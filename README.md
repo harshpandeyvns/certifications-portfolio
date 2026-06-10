@@ -34,7 +34,7 @@ Welcome to my certifications repository! This repository contains all my verifie
 
 ---
 
-### 🌐 Web Development
+###  Web Development
 
 * CodSoft Web Development Internship Certificate
 * Oasis Infobyte Web Development Certificate
